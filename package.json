@@ -1,0 +1,16 @@
+{
+	"name": "notifica_bonus_mobilita",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "nodemon index.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"node-cron": "^2.0.3",
+		"node-fetch": "^2.6.0",
+		"telegraf": "^3.38.0"
+	}
+}
